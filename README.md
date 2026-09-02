@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HubDamian95
+- 👋 Hi, I’m Hubert.
 - 👀 find out more about me here: https://hubdamian95.github.io/
 
 <!---
